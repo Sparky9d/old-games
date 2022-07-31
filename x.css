@@ -1,0 +1,47 @@
+
+h1,h2,h3,h4,h5,h6 {
+  color: #ccc;
+  margin-top: 20px;
+}
+
+ul {
+  color: #ccc;
+}
+
+body {
+  background-color: #444455;
+  color: #ccc;
+}
+
+div.content {
+  margin: 0 auto;
+  width: 600px;
+}
+
+ul.center {
+  display: inline-block;
+  padding: 0;
+}
+
+div.footer {
+  height: 100px;
+  width: 100%;
+  color: #000;
+}
+
+div.topbar {
+  width: 100%;
+  height: 20px
+}
+
+a {
+  color: #66aa66;
+}
+
+a.nav {
+  background-color: #66aa66;
+  color: #444455;
+  padding: 4px;
+  margin-top: 30px;
+  border-radius: 8px;
+}
